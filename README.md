@@ -100,3 +100,5 @@ sendCookedData=true
 ![image](https://user-images.githubusercontent.com/35534434/186501786-ce5abf08-4234-42ea-8171-93b0d1ab670c.png)
 - Configuring SUF to send data to Cribl Stream, then to Indexer using Splunk default certs
 ![image](https://user-images.githubusercontent.com/35534434/186502349-31e39f5c-ba8e-4bbf-b5b5-9bd18a85d057.png)
+
+## Configure Splunk as a Stream Destination
